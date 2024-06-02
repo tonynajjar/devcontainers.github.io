@@ -803,3 +803,8 @@
   contact: https://github.com/GMkonan/fly-cli-feature/issues
   repository: https://github.com/GMkonan/fly-cli-feature
   ociReference: ghcr.io/gmkonan/fly-cli-feature
+- name: ROS2 devcontainer Template
+  maintainer: Tony Najjar
+  contact: https://github.com/tonynajjar/ros2_devcontainer_template/issues
+  repository: https://github.com/tonynajjar/ros2_devcontainer_template/
+  ociReference: ghcr.io/tonynajjar/ros2_devcontainer_template
